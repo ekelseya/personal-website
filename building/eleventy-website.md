@@ -25,7 +25,7 @@ JavaScript<br>
 HTML<br>
 
 ### Repo
-[Personal Website on GitHub](https://www.github.com/)
+[Personal Website on GitHub](https://www.github.com/ekelseya/personal-website)
 
 ### Demos
 
