@@ -5,9 +5,9 @@ eleventyExcludeFromCollections: true
 ---
 <div class="greeting">
   <h1>My Projects</h1>
-  <img class="secondary" alt="Cool Kids Illustration by Irene Falgueras." src="/img/CoolKidsFeedback.png">
-  <p>
-  </p>
+  {% if 'page-' not in page.url %}
+    <div id="feedback"></div>
+  {% endif %}
 </div>
 
 {% for item in collections.build | reverse %}
