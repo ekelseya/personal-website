@@ -2,6 +2,12 @@
 layout: base.njk
 title: Reading
 eleventyExcludeFromCollections: true
+pagination:
+  data: collections.read
+  size: 5
+  alias: items
+  reverse: true
+permalink: /reading/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}{% endif %}/index.html
 ---
 <div class="greeting">
   <h1>What I'm Reading</h1>

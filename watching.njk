@@ -2,6 +2,12 @@
 layout: base.njk
 title: Watching
 eleventyExcludeFromCollections: true
+pagination:
+  data: collections.watch
+  size: 5
+  alias: items
+  reverse: true
+permalink: /watching/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}{% endif %}/index.html
 ---
 <div class="greeting">
   <h1>My Complete Watch List</h1>

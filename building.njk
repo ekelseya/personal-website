@@ -2,6 +2,12 @@
 layout: base.njk
 title: Building
 eleventyExcludeFromCollections: true
+pagination:
+  data: collections.build
+  size: 5
+  alias: items
+  reverse: true
+permalink: /building/{% if pagination.pageNumber > 0 %}page-{{ pagination.pageNumber + 1 }}{% endif %}/index.html
 ---
 <div class="greeting">
   <h1>My Projects</h1>
