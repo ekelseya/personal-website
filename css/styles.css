@@ -121,6 +121,7 @@ pre {
   background: var(--code-color);
   padding: 0.5rem 0.5rem 0.5rem 1rem;
   border-left: 0.5rem solid var(--frg-accent);
+  overflow: auto;
   text-shadow: 0 1px var(--shadow);
   line-height: 1.4;
 }
@@ -401,6 +402,17 @@ svg {
 
 .greeting .secondary {
   height: 269px;
+}
+
+#hightech {
+  margin: auto;
+  height: 400px;
+  max-width: 300px;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../img/CoolKidsHighTech.png);
+
 }
 
 .breadcrumbs {
