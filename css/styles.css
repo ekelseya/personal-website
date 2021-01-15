@@ -475,6 +475,11 @@ footer {
   border-radius: 5px;
 }
 
+.disabled {
+  background-color: var(--bkg-accent);
+  opacity: 0.5;
+}
+
 .pagination a {
   margin: auto;
   padding: 1rem;
