@@ -104,16 +104,6 @@ h4 {
   margin: auto;
 }
 
-img {
-  width: 100%;
-}
-
-@media (max-width: 948px) {
-  img {
-    width: fit-content;
-  }
-}
-
 code {
   background: var(--code-color);
   padding: 0 0.25rem;
