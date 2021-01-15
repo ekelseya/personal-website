@@ -1,0 +1,21 @@
+---
+layout: base.njk
+title: Non-fiction
+pagination:
+  data: collections.nonfiction
+  size: 15
+  reverse: true
+eleventyExcludeFromCollections: true
+---
+<h1>
+    What I'm reading
+</h1>
+
+{% for work in collections.nonfiction %}
+  <article>
+    <h2>
+      <a href="{{ work.url | url }}">{{ work.data.title }}</a>
+    </h2>
+    {{ work.date }}
+  </article>
+{% endfor %}

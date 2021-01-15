@@ -1,0 +1,43 @@
+albums:
+  - artist: KennyHoopla
+    album: How Will I Rest in Peace if I'm Buried by a Highway?
+    stars: 5
+    review: If you do nothing else after browsing this list, go out and listen to this brilliant album. 
+  - artist: Royal & the Serpent
+    album: Overwhelmed
+    stars: 5
+    review: This song is the voice of anyone who has ever suffered from anxiety.
+  - artist: They Might be Giants
+    album: Flood
+    stars: 5
+    review: One of the few albums I can sing cover to cover, Flood could easily be the soundtrack of my life.
+  - artist: Twenty One Pilots
+    album: Jumpsuit
+    stars: 5
+    review: It's not the only Twenty One Pilots song in my playlist, but it probably gets the heaviest rotation.
+  - artist: Alien Ant Farm
+    album: Smooth Criminal
+    stars: 5
+    review: Annie, are you okay? Are you okay, Annie?
+  - artist: Arjana
+    album: Are you down
+    stars: 5
+    review: Do you remember the Diva from Fifth Element? I'm pretty sure she was going to sing this song next.
+  - artist: R.E.M.
+    album: It's The End Of The World As We Know It
+    stars: 5
+    review: I don't care if it's trite; this was 2020's theme song.
+  - artist: Violent Femmes
+    album: Blister in the Sun
+    stars: 5
+    review: Big hands, you know you're the one...
+  - artist: Cake
+    album: Short Skirt/Long Jacket
+    stars: 5
+    review: Some of the sharpest lyrics I have ever heard.
+
+icons:
+  - d: M19.803 13.207l-.829 1.093-1.554-3.826c-.077-.189-.244-.306-.437-.306-.157 0-.356.084-.444.321l-1.356 3.664-1.872-8.759c-.062-.291-.288-.394-.462-.394-.203 0-.428.131-.473.424l-1.629 10.581-1.658-6.968c-.067-.282-.291-.382-.463-.382-.167 0-.374.092-.453.349l-1.453 4.753-1.07-2.53c-.078-.185-.245-.299-.436-.299-.154 0-.294.076-.385.209l-1.257 1.805-.087.058h-2.985c-.276 0-.5.224-.5.5s.224.5.5.5h3.284c.152 0 .296-.074.386-.206l.948-1.353 1.24 2.929c.079.187.241.299.433.299.211 0 .39-.138.455-.35l1.324-4.332 1.814 7.629c.068.283.282.384.46.384.203 0 .428-.131.473-.425l1.605-10.425 1.673 7.83c.058.272.277.395.467.395.202 0 .366-.12.441-.321l1.5-4.049 1.426 3.51c.077.189.245.306.438.306.152 0 .292-.075.382-.206l1.146-1.583.087-.046h3.026c.272 0 .492-.22.492-.492s-.22-.494-.492-.494h-3.322c-.151 0-.294.077-.383.207z
+  - d: M6 23v-11c-4.036 0-6 2.715-6 5.5 0 2.807 1.995 5.5 6 5.5zm18-5.5c0-2.785-1.964-5.5-6-5.5v11c4.005 0 6-2.693 6-5.5zm-12-13.522c-3.879-.008-6.861 2.349-7.743 6.195-.751.145-1.479.385-2.161.716.629-5.501 4.319-9.889 9.904-9.889 5.589 0 9.29 4.389 9.916 9.896-.684-.334-1.415-.575-2.169-.721-.881-3.85-3.867-6.205-7.747-6.197z
+  - d: M24 20.682c-.002 1.555-1.17 2.318-2.24 2.318-.903 0-1.76-.544-1.76-1.616 0-1.104 1.201-2.118 2.515-2.118.161 0 .323.015.485.047v-4.312l-6 1.229v5.45c-.002 1.556-1.18 2.32-2.258 2.32-.906 0-1.742-.542-1.742-1.61 0-1.106 1.201-2.125 2.518-2.125.16 0 .322.015.484.047v-6.52l7.998-1.792v8.682zm-13-6.682c-1.657 0-3-1.343-3-3s1.343-3 3-3 3 1.343 3 3-1.343 3-3 3zm0-1c1.103 0 2-.897 2-2s-.897-2-2-2-2 .897-2 2 .897 2 2 2zm-1.818 2.646c-1.293-.508-2.319-1.534-2.827-2.827l-1.025.128c.6 1.746 1.979 3.125 3.725 3.724l.127-1.025zm-4.869-2.572l-1 .125c.757 2.648 2.84 4.731 5.488 5.488l.125-1c-2.194-.683-3.93-2.418-4.613-4.613zm8.505-6.72c1.293.508 2.319 1.534 2.827 2.828l1.025-.128c-.6-1.746-1.979-3.125-3.725-3.725l-.127 1.025zm-1.771 15.644c.082-.734.378-1.441.878-2.045-.304.03-.613.047-.925.047-4.963 0-9-4.038-9-9s4.037-9 9-9c4.912 0 8.91 3.957 8.992 8.849l1.978-.443c-.311-5.798-5.096-10.406-10.97-10.406-6.075 0-11 4.925-11 11s4.925 11 11 11l.047-.002zm2.151-18.685l-.125 1c2.195.682 3.931 2.418 4.613 4.613l1-.125c-.755-2.648-2.838-4.732-5.488-5.488z
+  - d: M6 23h-6v-2h6v2zm9-2h-6v2h6v-2zm9 0h-6v2h6v-2zm-18-4h-6v2h6v-2zm9 0h-6v2h6v-2zm9 0h-6v2h6v-2zm0-4h-6v2h6v-2zm-18 0h-6v2h6v-2zm9 0h-6v2h6v-2zm-9-4h-6v2h6v-2zm9 0h-6v2h6v-2zm0-4h-6v2h6v-2zm0-4h-6v2h6v-2z

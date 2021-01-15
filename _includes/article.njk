@@ -1,0 +1,11 @@
+{% include "_head.njk" %}
+ 
+  <main id="main">
+    <article>
+        <h1>{{ title }}</h1>
+        <div class="added">Added <time datetime="{{ item.date | dateIso }}">{{ item.date | dateReadable }}</time></div>
+        {{ content | safe }}
+    </article>
+  </main> 
+
+{% include "_foot.njk" %}
