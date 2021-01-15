@@ -85,7 +85,7 @@ article {
 
 h1 {
   margin: auto;
-  padding: 1.5rem 0;
+  padding: 1rem 0;
   font-size: 1.75rem;
 }
 
@@ -400,19 +400,14 @@ svg {
   text-align: center;
 }
 
-.greeting .secondary {
-  height: 269px;
+.greeting .primary {
+  height: 400px;
+  max-width: 500px;
 }
 
-#hightech {
-  margin: auto;
-  height: 400px;
-  max-width: 300px;
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-image: url(../img/CoolKidsHighTech.png);
-
+.greeting .secondary {
+  height: 269px;
+  max-width: 500px;
 }
 
 .breadcrumbs {
