@@ -10,6 +10,9 @@ I am fascinated with data visualization. This project was a quick exploration of
 <!-- excerpt -->
 
 ---
+# Data Visualization with Plotly
+
+*Added January 2, 2021*
 
 ## Stats
 

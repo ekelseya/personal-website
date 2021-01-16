@@ -11,6 +11,10 @@ I'm building this website with Eleventy, a static site generator. I am using nun
 
 ---
 
+# Personal website with Eleventy (11ty)
+
+*Added January 11, 2021*
+
 I had already created a simple blog with Eleventy, but I knew it could do so much more! I used this project to stretch my skills with both [Eleventy](https://www.11ty.dev/) and [Nunjucks](https://mozilla.github.io/nunjucks/).
 
 ## Stats

@@ -5,11 +5,14 @@ date: 2020-07-17
 tags: ['build']
 ---
 
-Did you know Nicolas Cage made 29 Direct-To-Video movies in the 2010s? I made a an app with React.js and Django to rate them all. Now I just have to watch them all...
+Did you know Nicolas Cage made 29 Direct-To-Video movies in the 2010s? I made an app with React.js and Django to rate them all. Now I just have to watch them all...
 
 <!-- excerpt -->
 
 ---
+# Cage Rage Rater
+
+*Added July 17, 2020*
 
 Built as part of a class project, this application incorporates Styled Components, React hooks and functional components, and user authentication and authorization.
 
@@ -31,7 +34,7 @@ Django Rest Framework
 
 Note: Due to the nature of free-tier hosting plans, please give the servers a moment to wake up.
 
-ADD IMAGES HERE
+<img src="/img/cage-rage.png" loading="lazy" alt="A screenshot of the Cage Rager" />
 
 ## Goals
 
