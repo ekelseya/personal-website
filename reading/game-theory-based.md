@@ -9,6 +9,9 @@ Researchers at the National Taiwan University of Science and Technology analyze 
 <!-- excerpt -->
 
 ---
+# A game theory-based approach to the analysis of cooperative learning in design studios
+
+*Added December 30, 2020*
 
 ## Stats
 
