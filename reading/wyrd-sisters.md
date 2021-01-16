@@ -9,6 +9,9 @@ Sixth in Terry Pratchett's Disc World series, *Wyrd Sisters* is a brilliant and 
 <!-- excerpt -->
 
 ---
+# Wyrd Sisters
+
+*Added December 20, 2020*
 
 If Macbeth and Hamlet were thrown into a blender with a smattering of Douglas Adams and a hefty dose of Monty Python, you'd get *Wyrd Sisters*
 
