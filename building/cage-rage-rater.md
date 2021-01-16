@@ -26,7 +26,7 @@ Django Rest Framework
 
 ### Demos
 
-[Firebase deployment](https://cage-rage-rater-13e45.web.app/)
+[Firebase deployment](https://cage-rage-rater-13e45.web.app/)<br>
 [DRF API on Heroku](https://cage-rater-api.herokuapp.com/api/)
 
 Note: Due to the nature of free-tier hosting plans, please give the servers a moment to wake up.
@@ -102,7 +102,7 @@ I plan to add a loading screen, especially as the API server takes a minute to w
 
 ### Accessibility
 
-This app is probably the least accessible app in existance. At a bare minimum, I need to add keyboard navigation and implementation.
+This app is probably the least accessible app in existance. At a bare minimum, I need to add keyboard navigation and functionality.
 
 ### Comments
 
