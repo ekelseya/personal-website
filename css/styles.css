@@ -132,6 +132,41 @@ pre code {
   padding: 0;
 }
 
+ol, ul {
+  width: 80%;
+  margin-left: 5%;
+}
+
+blockquote {
+	width: 80%;
+	margin: 64px auto;
+	font-style: italic;
+  padding: 1.2em 30px 1.2em 75px;
+  border-top: 1px solid var(--frg-color);
+  border-bottom: 1px solid var(--frg-color);
+	line-height: 1.6;
+  position: relative;
+}
+
+	blockquote::before {
+		content: "\275D";
+    color: var(--frg-color);
+    opacity: 0.5;
+		font-size: 2.5em;
+		position: absolute;
+		left: 1rem;
+		top: 0.25rem;
+	}
+	blockquote::after {
+    content: "\275E";
+    color: var(--frg-color);
+    opacity: 0.5;
+		font-size: 2.5em;
+    position: absolute;
+    right: 1rem;
+    bottom: 0.25rem;
+	}
+
 /* Menu */
 
 nav {
@@ -174,6 +209,8 @@ nav {
 }
 
 #menu ul {
+  width: 100%;
+  margin: auto;
   padding-top: 1rem;
   display: flex;
   justify-content: space-between;
@@ -220,7 +257,7 @@ nav {
   fill: var(--frg-color);
 }
 
-@media (max-width: 948px) {
+@media (max-width: 1064px) {
 
   #burger {
       display: block;
