@@ -4,7 +4,7 @@ const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
 const moonIcon = document.getElementById("moon");
 const sunIcon = document.getElementById("sun");
 
-if (!prefersDarkScheme) {
+if (!prefersDarkScheme.matches) {
   sunIcon.classList.add("hidden");
   moonIcon.classList.remove("hidden");
 }
